@@ -1,0 +1,16 @@
+body {
+  background: url(./assets/background.png) no-repeat;
+  background-size: cover;
+  color: #fff;
+}
+.logo {
+  width: 100px;
+}
+
+.navbar {
+  color: #fff;
+}
+
+.left {
+  width: 600px;
+}
